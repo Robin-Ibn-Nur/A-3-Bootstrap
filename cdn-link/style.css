@@ -1,0 +1,26 @@
+ul {
+    list-style: none;
+}
+
+.fa-star {
+    color: gold;
+}
+
+.fa-star-half-stroke {
+    color: gold;
+}
+
+.company-image {
+    width: 60px;
+}
+
+.icon {
+    max-width: 50px;
+    max-height: 50px;
+    margin-left: 2%;
+}
+
+footer {
+    height: 300px;
+    min-height: 249px;
+}
